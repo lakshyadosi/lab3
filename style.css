@@ -1,0 +1,141 @@
+#blue{
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+}
+#red{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+#green{
+    color:green;
+    background-color: rgb(214, 214, 65);
+    font-size: 20px;
+}
+
+.centre{
+    color: red;
+    background-color: yellow;
+}
+.lal{
+    background-color:white;
+    color:black;
+}
+
+.purple{
+    color:green;
+    background-color: rgb(214, 214, 65);
+    font-size: 20px;
+    
+
+}
+.kal{
+    color:green;
+    background-color: rgb(214, 214, 65);
+    font-size: 20px;
+    text-align:center;
+}
+
+.unord{
+    font-size:30px;
+    color:red;
+}
+
+.solid{
+    border-style: solid;
+background-color:yellow;
+margin:10px;
+padding:10px;
+border:1px solid black;
+background-image:url("star.png");
+background-repeat:no-repeat;
+background-position:right;
+
+}
+.solid1{
+    border-style: solid;
+background-color:yellow;
+margin:10px;
+padding:10px;
+border:1px solid black;
+background-image:url("star.png");
+background-repeat:no-repeat;
+background-position:right;
+width: 50%;
+}
+.solid2{
+    border-style: solid;
+background-color:yellow;
+margin:10px;
+padding:10px;
+border:1px solid black;
+background-image:url("star.png");
+background-repeat:no-repeat;
+background-position:right;
+width: 50%;
+}
+.solid2:hover {
+    
+   
+    background-color: white;
+    cursor: pointer;
+    
+  }
+  .solid3{
+    border-style: solid;
+background-color:yellow;
+margin:10px;
+padding:10px;
+border:1px solid black;
+background-image:url("star.png");
+background-repeat:no-repeat;
+background-position:right;
+width: 50%;
+border-radius:5px;
+}
+
+  .solid3:hover {
+    border-style: solid;
+    background-color:yellow;
+    margin:10px;
+    padding:10px;
+    border:1px solid black;
+    background-image:url("star.png");
+    background-repeat:no-repeat;
+    background-position:right;
+    width: 50%;
+    background-color: white;
+    cursor: pointer;
+    transform:translateX(20px);
+
+  }
+  .solid4{
+    border-style: solid;
+background-color:yellow;
+margin:10px;
+padding:10px;
+border:1px solid black;
+background-image:url("star.png");
+background-repeat:no-repeat;
+background-position:right;
+width: 50%;
+border-radius:5px;
+}
+
+  .solid4:hover {
+    border-style: solid;
+    background-color:yellow;
+    margin:10px;
+    padding:10px;
+    border:1px solid black;
+    background-image:url("star.png");
+    background-repeat:no-repeat;
+    background-position:right;
+    width: 50%;
+    background-color: white;
+    cursor: pointer;
+    transform:translateX(20px);
+    opacity:0.7;
+
+  }
