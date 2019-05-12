@@ -1,0 +1,28 @@
+body{
+    display: absolute;
+}
+
+
+.container1{
+    display: flex;
+
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+.container3{
+    
+    display: flex;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+    flex:1 1 25%;
+}
+.container4{
+    
+    height: 300px;
+    margin-left: auto;
+    float: right;
+    position: relative;
+}
